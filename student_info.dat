@@ -1,0 +1,92 @@
+art Students:
+name: robert puentes
+gpa: 4.500000
+grad year: 2027
+graduating semester: spring
+year enrrolled: spring
+semester enrolled: 2022
+level: undergrad
+art field: art history
+
+name: travis scott
+gpa: 3.500000
+grad year: 2026
+graduating semester: fall
+year enrrolled: fall
+semester enrolled: 2022
+level: undergrad
+art field: art education
+
+name: tony stark
+gpa: 4.000000
+grad year: 2025
+graduating semester: spring
+year enrrolled: spring
+semester enrolled: 2023
+level: grad
+art field: art studio
+
+name: emily aguilar
+gpa: 3.200000
+grad year: 2024
+graduating semester: fall
+year enrrolled: fall
+semester enrolled: 2020
+level: undergrad
+art field: art history
+
+name: archduke franz ferdinand
+gpa: 3.800000
+grad year: 2025
+graduating semester: spring
+year enrrolled: spring
+semester enrolled: 2021
+level: grad
+art field: art education
+
+physics students:
+name: frank sinatra
+gpa: 3.600000
+grad year: 2026
+graduating semester: spring
+year enrrolled: spring
+semester enrolled: 2022
+level: undergrad
+focus: biophysics
+
+name: alexander the great
+gpa: 3.800000
+grad year: 2025
+graduating semester: fall
+year enrrolled: fall
+semester enrolled: 2021
+level: undergrad
+focus: earth and planetary sciences
+
+name: john ford
+gpa: 3.400000
+grad year: 2026
+graduating semester: Spring
+year enrrolled: Spring
+semester enrolled: 2022
+level: grad
+focus: biophysics
+
+name: lee lee
+gpa: 3.900000
+grad year: 2027
+graduating semester: Fall
+year enrrolled: Fall
+semester enrolled: 2023
+level: grad
+focus: earth and planetary sciences
+
+name: bossman dlow
+gpa: 3.500000
+grad year: 2025
+graduating semester: spring
+year enrrolled: spring
+semester enrolled: 2021
+level: udergrad
+focus: biophysics
+
